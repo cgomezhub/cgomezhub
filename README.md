@@ -40,7 +40,7 @@ I am Passionate about technology and enjoying a job transition to web developmen
 <div id="header" align="left">
     <img decoding="async" src=https://img.shields.io/badge/logo-javascript-blue?logo=javascript alt="JavaScript"/>
   </a>
-    <img decoding="async" src=https://img.shields.io/bundlephobia/min/React alt="react"/>
+    <img decoding="async" src=https://img.shields.io/badge/logo-React-blue?logo=React  alt="react"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
