@@ -42,6 +42,8 @@ I am Passionate about technology and enjoying a job transition to web developmen
   </a>
     <img decoding="async" src=https://img.shields.io/bundlephobia/min/react/18.1?logo=%2361DAFB alt="react"/>
   </a>
+![npm bundle size](https://img.shields.io/bundlephobia/min/React)
+
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
