@@ -27,7 +27,7 @@ I am Passionate about technology and enjoying a job transition to web developmen
 
 - :telescope: I am currently dedicated to leasing commercial premises :muscle:
 
-- :seedling: I developed 3 front end apps and 1 back end app by studying :blue_book: Full stack development :computer:.
+- :seedling: I have developed 3 front end apps and 1 back end app by studying :blue_book: Full stack development program in TripleTen in the last 6 months:computer:.
 
 - :heartbeat: I love to add new skills to improve web apps.
 
