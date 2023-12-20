@@ -46,5 +46,7 @@ I am Passionate about technology and enjoying a job transition to web developmen
   </a>
   <img decoding="async" src=https://img.shields.io/badge/logo-MongoDB-blue?logo=MongoDB  alt="MongoDB"/>
   </a>
+  <img decoding="async" src=https://img.shields.io/badge/logo-Github-blue?logo=Github  alt="Github"/>
+  </a>
 
 </div>
