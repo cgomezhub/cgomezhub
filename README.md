@@ -32,3 +32,19 @@ I am Passionate about technology and enjoying a job transition to web developmen
 - :heartbeat: I love to add new skills to improve web apps.
 
 - :mailbox: Do you want to be in touch ? [![Linkedin Badge](https://img.shields.io/badge/-Carlos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-gomez-lugo)
+
+---
+
+### :hammer_and_wrench: Languages and skills :
+
+<div id="header" align="left">
+    <img decoding="async" src=https://img.shields.io/badge/logo-javascript-blue?logo=javascript alt="JavaScript"/>
+  </a>
+    <img decoding="async" src=https://img.shields.io/bundlephobia/min/React/20.0.0?style=flat&logo=%2361DAFB&logoColor=blue alt="react"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+
+</div>
