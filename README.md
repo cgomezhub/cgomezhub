@@ -57,4 +57,4 @@ I am Passionate about technology and enjoying a job transition to web developmen
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cgomezhub&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/cgomezhub/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgomezhub&layout=compact&theme=vision-friendly-dark)](https://github.com/cgomezhub/github-readme-stats)
