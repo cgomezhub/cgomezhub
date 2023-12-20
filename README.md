@@ -21,13 +21,13 @@
 
  <div id="header" align="left">
 
-### :man_technologist: Sobre mí :
+### :man_technologist: About me :
 
 I am Passionate about technology and enjoying a job transition to web development <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I am currently dedicated to leasing commercial premises :muscle:
 
-- :seedling: I am studying :blue_book: and Full stack development :computer: .
+- :seedling: I developed 3 front end apps and 1 back end app by studying :blue_book: Full stack development :computer:.
 
 - :heartbeat: I love to add new skills to improve web apps.
 
