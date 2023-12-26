@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="/media/Banner_carlos_gomez.png" width="800"/>
+  <img decoding="async" src="/media/Banner Para LinkedIn Desarrollador De Software Moderno Negro (1).png" width="800"/>
 </div>
 
 <div align="center">
