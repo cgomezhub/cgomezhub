@@ -25,9 +25,9 @@
 
 I am Passionate about technology and enjoying a job transition to web development <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I am currently dedicated to leasing commercial premises :muscle:
+- :telescope: I am currently working on full stack developments :muscle:
 
-- :seedling: I have developed 3 front end apps and 1 back end app by studying :blue_book: Full stack development program in TripleTen in the last 6 months:computer:.
+- :seedling: I have developed 3 front end and 1 back end apps for 1 MERN full stack development / https://www.around.myremotetest.eu/ :blue_book: Full stack development program in TripleTen in the last 7 months:computer:.
 
 - :heartbeat: I love to add new skills to improve web apps.
 
