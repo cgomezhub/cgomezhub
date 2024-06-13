@@ -25,9 +25,9 @@
 
 I am Passionate about technology. I enjoy adding and improving new features in full stack projects. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I am currently working on full stack developments :muscle:
+- :telescope: I am currently working on full stack developments and Learning Next.js :muscle:
 
-- :seedling: So  far I have developed 2  MERN full stack projects / https://www.around.myremotetest.eu/ and https://www.homehh.truckstore.ch/ :blue_book: for Full stack development program in TripleTen during the  last 6 months:computer:.
+- :seedling: So  far I have developed 2  MERN full stack projects / https://around-sn.vercel.app/signin/ and https://www.homehh.truckstore.ch/ :blue_book: for Full stack development program in TripleTen during the  last 6 months:computer:.
 
 - :heartbeat: I love to add new skills to improve web apps.
 
