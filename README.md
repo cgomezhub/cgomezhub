@@ -31,7 +31,7 @@ I am Passionate about technology. I enjoy adding and improving new features in f
 
 - :heartbeat: I love to add new skills to improve web apps.
 
-- - - :telescope: I am currentlyi  diving into  Next.js and Typescript.js  :muscle:
+- :telescope: I am currently  diving into  Next.js and Typescript.js  :muscle:
 
 - :mailbox: Do you want to be in touch ? [![Linkedin Badge](https://img.shields.io/badge/-Carlos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-gomez-lugo)
 
