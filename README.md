@@ -27,11 +27,12 @@ I am Passionate about technology. I enjoy adding and improving new features in f
 
 - :telescope: I am currently working on One Communty Global adding features in https://github.com/OneCommunityGlobal/HighestGoodNetwork and  https://github.com/OneCommunityGlobal/HGNRest :muscle:
 
-- :seedling:  I have developed 2  MERN full stack projects / https://around-sn.vercel.app/signin/ and https://www.homehh.truckstore.ch/ :computer:.
+- :seedling:  I have developed 3  full stack projects 
+                https://store-cg.vercel.app   / https://around-sn.vercel.app/signin/ and https://www.homehh.truckstore.ch/ :computer:.
 
 - :heartbeat: I love to add new skills to improve web apps.
 
-- :telescope: I am currently  diving into  Next.js and Typescript.js  :muscle:
+- :telescope: I am currently  diving into  Nest.js :muscle:
 
 - :mailbox: Do you want to be in touch ? [![Linkedin Badge](https://img.shields.io/badge/-Carlos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-gomez-lugo)
 
