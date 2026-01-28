@@ -25,10 +25,16 @@
 
 I am Passionate about technology. I enjoy adding and improving new features in full stack projects. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I am currently working on One Communty Global adding features in https://github.com/OneCommunityGlobal/HighestGoodNetwork and  https://github.com/OneCommunityGlobal/HGNRest :muscle:
+- :telescope: I worked as a Full Stack Software contribitor for 14 month in  [![Static Badge](https://img.shields.io/badge/One_Community-Global-green)](https://onecommunityglobal.org/one-community-welcomes-carlos-gomez-to-the-software-development-team/), adding features:
+  - https://github.com/OneCommunityGlobal/HighestGoodNetworkApp/pull/2503
+  - https://github.com/OneCommunityGlobal/HighestGoodNetworkApp/pull/2409
+  - https://github.com/OneCommunityGlobal/HighestGoodNetworkApp/pull/2310
+  - https://github.com/OneCommunityGlobal/HGNRest/pull/1185  
 
 - :seedling:  Real Full Stack Projects full stack projects 
-                https://mequuedo.app  / https://ganchosv.com and Portfolio  https://store-cg.vercel.app/ :computer:.
+  - https://mequedo.app
+  - https://ganchosv.com
+  -  as a Portfolio  https://store-cg.vercel.app/ :computer:.
 
 - :heartbeat: I love to add new skills to improve web apps.
 
@@ -60,6 +66,5 @@ I am Passionate about technology. I enjoy adding and improving new features in f
 
 ### :fire: Statistics :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cgomezhub&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgomezhub&layout=compact&theme=vision-friendly-dark)](https://github.com/cgomezhub/github-readme-stats)
