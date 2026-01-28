@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-gomez-lugo)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cgomezdev)
 
 </div>
 
@@ -27,14 +27,14 @@ I am Passionate about technology. I enjoy adding and improving new features in f
 
 - :telescope: I am currently working on One Communty Global adding features in https://github.com/OneCommunityGlobal/HighestGoodNetwork and  https://github.com/OneCommunityGlobal/HGNRest :muscle:
 
-- :seedling:  I have developed 3  full stack projects 
-                https://store-cg.vercel.app   / https://around-sn.vercel.app/signin/ and https://www.homehh.truckstore.ch/ :computer:.
+- :seedling:  Real Full Stack Projects full stack projects 
+                https://mequuedo.app  / https://ganchosv.com and Portfolio  https://store-cg.vercel.app/ :computer:.
 
 - :heartbeat: I love to add new skills to improve web apps.
 
-- :telescope: I am currently  diving into  Nest.js :muscle:
+- :telescope: I am currently  diving into  AI Engineering :muscle:
 
-- :mailbox: Do you want to be in touch ? [![Linkedin Badge](https://img.shields.io/badge/-Carlos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-gomez-lugo)
+- :mailbox: Do you want to be in touch ? [![Linkedin Badge](https://img.shields.io/badge/-Carlos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cgomezdev)
 
 
 
