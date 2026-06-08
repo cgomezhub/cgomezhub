@@ -40,7 +40,7 @@ I am Passionate about technology. I enjoy adding and improving new features in f
 
 - :telescope: more than AI of expericne in AI Engineering :muscle:
   
-- 🐱 More about me: I love to learn new things, cats, watch movies/series and play games
+- 🐱 More about me: I love to learn new things, cats, watch movies/series and play the guitar
 
 - :mailbox: Do you want to be in touch ? [![Linkedin Badge](https://img.shields.io/badge/-Carlos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cgomezdev)
 
