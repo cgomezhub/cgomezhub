@@ -38,7 +38,7 @@ I am Passionate about technology. I enjoy adding and improving new features in f
 
 - :heartbeat: I love to add new skills to improve web apps.
 
-- :telescope: more than AI of expericne in AI Engineering :muscle:
+- :telescope: More than one year of expericne in AI Engineering :muscle:
   
 - 🐱 More about me: I love to learn new things, cats, watch movies/series and play the guitar
 
