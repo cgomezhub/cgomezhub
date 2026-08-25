@@ -25,7 +25,7 @@
 
 I am Passionate about technology. I enjoy adding and improving new features in full stack projects. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I worked as a Full Stack Software contribitor for 14 month in  [![Static Badge](https://img.shields.io/badge/One_Community-Global-green)](https://onecommunityglobal.org/one-community-welcomes-carlos-gomez-to-the-software-development-team/), adding features:
+- :telescope: I worked as a Full Stack Software contributor for 14 month in  [![Static Badge](https://img.shields.io/badge/One_Community-Global-green)](https://onecommunityglobal.org/one-community-welcomes-carlos-gomez-to-the-software-development-team/), adding features:
   - https://github.com/OneCommunityGlobal/HighestGoodNetworkApp/pull/2503
   - https://github.com/OneCommunityGlobal/HighestGoodNetworkApp/pull/2409
   - https://github.com/OneCommunityGlobal/HighestGoodNetworkApp/pull/2310
